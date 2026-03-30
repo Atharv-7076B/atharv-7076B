@@ -53,22 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharv-mohite-7076&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-mohite-7076&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-mohite-7076&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Featured Projects
 - 🧾 **BillX POS System** – Inventory, billing, JWT auth, role-based access  
 - 🏦 **Banking Application** – Transactions, account management, email alerts  
