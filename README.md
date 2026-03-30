@@ -1,32 +1,60 @@
 <h1 align="center">Hi 👋, I'm Atharv Mohite</h1>
-<h3 align="center">Full Stack Java Developer | Spring Boot | React | MySQL</h3>
+<h3 align="center">Full Stack Java Developer | Problem Solver | Continuous Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;React+Developer;Azure+%7C+Docker+Enthusiast;DSA+Learner"/>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on: **BillX POS System**
-- 🌱 Learning: **Advanced Spring Boot & Microservices**
-- 💡 Passionate about: **Building Scalable Full Stack Apps**
-- 🎯 Goal: **Become a Top Software Engineer**
+## 🧠 About Me
+- 💻 I build full-stack applications with clean architecture  
+- 🚀 Currently working on **BillX POS System**  
+- 📚 Improving **DSA + System Design skills**  
+- ☁️ Exploring **Cloud (Azure) & Docker**  
+- 🎯 Focused on becoming a **job-ready software engineer**
 
 ---
 
 ## 🛠️ Tech Stack
-### 💻 Backend
-- Java, Spring Boot, Spring Security, JPA, Hibernate
 
-### 🌐 Frontend
-- React.js, HTML, CSS, Tailwind, Bootstrap
+### 🔹 Frontend
+- HTML, CSS, JavaScript  
+- React.js  
+- TailwindCSS, Bootstrap  
 
-### 🗄️ Database
-- MySQL, PostgreSQL
+### 🔹 Backend
+- Java  
+- Spring Boot  
+- Spring Security  
+- JPA & Hibernate  
 
-### ⚙️ Tools
-- Git, GitHub, Postman, Swagger, IntelliJ, Azure
+### 🔹 Database
+- MySQL  
+- PostgreSQL  
+
+### 🔹 Testing & Tools
+- Postman  
+- Swagger  
+
+### 🔹 Platforms & DevOps
+- Git & GitHub  
+- Microsoft Azure  
+- Docker  
+- Render / Railway  
+
+---
+
+## 💻 What I'm Working On
+- 🔧 Building full-stack projects from scratch  
+- 🧠 Practicing DSA daily (LeetCode challenge)  
+- ⚡ Improving backend performance & design  
+- ☁️ Learning deployment using Azure & Docker  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atharv-mohite-7076&show_icons=true&theme=tokyonight" />
 </p>
@@ -35,19 +63,26 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-mohite-7076&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-mohite-7076&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
-## 🔥 Top Projects
-- 🧾 **BillX POS System**
-- 🏦 **Banking Application**
-- 🏢 **Leave Management System**
+## 🔥 Featured Projects
+- 🧾 **BillX POS System** – Inventory, billing, JWT auth, role-based access  
+- 🏦 **Banking Application** – Transactions, account management, email alerts  
+- 🏢 **Leave Management System** – Approval workflow & tracking  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/atharv-mohite-0b06b72a4
-- GitHub: https://github.com/atharv-mohite-7076
+- 📧 Email: atharv.mohite.sknscoe.comp@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/atharv-mohite-0b06b72a4  
+- 💻 GitHub: https://github.com/atharv-mohite-7076  
 
 ---
 
-⭐️ From Atharv Mohite
+<p align="center">
+  ⭐️ From Atharv Mohite
+</p>
