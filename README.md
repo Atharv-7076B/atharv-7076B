@@ -242,63 +242,7 @@ public class AtharvMohite extends Developer {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  TROPHIES SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%"/>
-
-<h2 align="center">
-  🏆 GitHub Trophies
-</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=atharv-mohite-7076&theme=discord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" width="100%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ACTIVITY GRAPH SECTION                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%"/>
-
-<h2 align="center">
-  📈 Contribution Activity
-</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv-mohite-7076&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=4c1d95&hide_border=true&radius=12" width="98%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--              CONTRIBUTION SNAKE SECTION                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%"/>
-
-<h2 align="center">
-  🐍 Contribution Snake
-</h2>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atharv-mohite-7076/atharv-mohite-7076/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atharv-mohite-7076/atharv-mohite-7076/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atharv-mohite-7076/atharv-mohite-7076/output/github-snake-dark.svg" width="98%" />
-</picture>
-
-</div>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  LEETCODE & DSA SECTION                    -->
