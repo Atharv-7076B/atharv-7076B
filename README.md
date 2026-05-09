@@ -1,72 +1,104 @@
 <h1 align="center">Hi 👋, I'm Atharv Mohite</h1>
-<h3 align="center">Full Stack Java Developer | Problem Solver | Continuous Learner</h3>
+
+<h3 align="center">
+Full Stack Java Developer | Spring Boot | React.js | DSA Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;React+Developer;Azure+%7C+Docker+Enthusiast;DSA+Learner"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Java+Developer;Spring+Boot+Developer;React+Developer;Java+DSA+Problem+Solver">
 </p>
 
 ---
 
-## 🧠 About Me
-- 💻 I build full-stack applications with clean architecture  
-- 🚀 Currently working on **BillX POS System**  
-- 📚 Improving **DSA + System Design skills**  
-- ☁️ Exploring **Cloud (Azure) & Docker**  
-- 🎯 Focused on becoming a **job-ready software engineer**
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=atharv-mohite-7076&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+## 🚀 About Me
+
+- 🔭 Currently working on **BillX POS System**
+- 💻 Strong in **Java, Spring Boot & React.js**
+- 📚 Practicing Data Structures & Algorithms
+- ⚡ Interested in backend development and scalable applications
+- 🎯 Focused on becoming a skilled software engineer
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-### 🔹 Frontend
-- HTML, CSS, JavaScript  
-- React.js  
-- TailwindCSS, Bootstrap  
+<p align="left">
 
-### 🔹 Backend
-- Java  
-- Spring Boot  
-- Spring Security  
-- JPA & Hibernate  
+<a href="https://linkedin.com/in/atharv-mohite-0b06b72a4" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-### 🔹 Database
-- MySQL  
-- PostgreSQL  
+<a href="https://github.com/atharv-mohite-7076" target="blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-### 🔹 Testing & Tools
-- Postman  
-- Swagger  
+<a href="mailto:atharv.mohite.sknscoe.comp@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+</a>
 
-### 🔹 Platforms & DevOps
-- Git & GitHub  
-- Microsoft Azure  
-- Docker  
-- Render / Railway  
+</p>
 
 ---
 
-## 💻 What I'm Working On
-- 🔧 Building full-stack projects from scratch  
-- 🧠 Practicing DSA daily (LeetCode challenge)  
-- ⚡ Improving backend performance & design  
-- ☁️ Learning deployment using Azure & Docker  
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,bootstrap,mysql,postgresql,git,github,postman" />
+
+</p>
 
 ---
 
 ## 🔥 Featured Projects
-- 🧾 **BillX POS System** – Inventory, billing, JWT auth, role-based access  
-- 🏦 **Banking Application** – Transactions, account management, email alerts  
-- 🏢 **Leave Management System** – Approval workflow & tracking  
+
+### 🧾 BillX POS System
+- JWT Authentication
+- Billing & Inventory Management
+- Role-Based Access
+- Spring Boot + React.js
+
+### 🏦 Banking Application
+- Deposit & Withdrawal
+- Account Management
+- Email Notifications
+- PostgreSQL + Spring Boot
+
+### 🏢 Leave Management System
+- Leave Tracking
+- Approval Workflow
+- Employee Management
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: atharv.mohite.sknscoe.comp@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/atharv-mohite-0b06b72a4  
-- 💻 GitHub: https://github.com/atharv-mohite-7076  
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  ⭐️ From Atharv Mohite
+<img src="https://github-readme-stats.vercel.app/api?username=atharv-mohite-7076&show_icons=true&theme=tokyonight" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharv-mohite-7076&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharv-mohite-7076&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 LeetCode
+
+<p align="left">
+<a href="https://leetcode.com/BlindMirror7076/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+</p>
+
+---
+
+<h3 align="center">⭐ From Atharv Mohite ⭐</h3>
